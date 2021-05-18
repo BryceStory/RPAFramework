@@ -1,0 +1,19 @@
+﻿{
+    "code":1020101,
+    "msg":"Required request ",
+    "success":"true",
+    "data":[
+        {
+            "taskId":"taskid123",
+            "caseId":"caseid123",
+            "原告":"q1",
+            "金额":"11"
+        },
+        {
+            "taskId":"taskid456",
+            "caseId":"caseid456",
+            "原告":"q2",
+            "金额":"22"
+        }
+    ]
+}
